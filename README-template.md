@@ -52,6 +52,7 @@ I got to practice my javascript in this project
 - Website - [coming soon]
 - Frontend Mentor - [@Ebunski](https://www.frontendmentor.io/profile/Ebun_ski)
 - Twitter - [@Ebun_ski](https://www.twitter.com/Ebun_ski)
+- LinkedIn - Ebunoluwa Oyebola
 
 
 ## Acknowledgments
